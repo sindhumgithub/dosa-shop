@@ -1,5 +1,2 @@
-# Dosa Shop
-## plain Dosa
-## Masala Dosa
-## Light Oil is added
-## Karam Dosa started....
+## Mushroom Dosa
+* oil
