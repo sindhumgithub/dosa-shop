@@ -1,8 +1,3 @@
 # Dosa Shop
 ## plain Dosa
-## Masala Dosa
-## Light Oil is added
-## Karam Dosa started...
-## Dosa Batter
-## Erra Karam
-## Oil
+## 2 eggs and  karam 
